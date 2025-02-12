@@ -1,0 +1,29 @@
+body{
+    background-image: url(wallpaperflare.com_wallpaper\ \ \(3\).jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.looks {
+    background-image: url(wallpaperflare.com_wallpaper\ \ \(3\).jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    height: 100vh;
+    margin: 2cm;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid gold;
+    border-radius: 3cm;
+}
+
+.fill {
+    padding: 5px;
+    text-align: center;
+}
+
+.click {
+    padding: 5px;
+    text-align: center;
+    
+}
